@@ -32,8 +32,23 @@ const videos = {
   key_ingredient: 120703879,
   new_holland: 84741090,
   pico8: 230846595,
-  reel: 231239209,
-  volvo: 62275317
+  editreel: 256707307,
+  volvo: 62275317,
+  chan: '116976989/589265640d',
+  perry_hamlin: '108628040/0d717f3226',
+  macys_inc: '95559201/b62c5f7844',
+  macys_ck: '',
+  lenovo_y: '95559201/56e6103586',
+  lenovo_yoga: '92186587/9e1d0653b0',
+  lenovo_z: '92186540/65858b736c',
+  focal: '92783337/ba2584c20f',
+  livestrong: '90188086/3eef9f291b',
+  pchip: 230847045,
+  prodchip: 230846642,
+  otto: 230847459,
+  audition: '256868075/83dde60f62',
+  dell: '255429818/1cbc727582',
+  rice: 99767852
 }
 
 function replaceVideo (videoPlayerID) {
