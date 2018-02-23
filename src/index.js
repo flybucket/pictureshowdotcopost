@@ -118,18 +118,3 @@ if (mainReel) {
     replaceVideo('reel')
   })
 }
-
-// Replace splash edit reel
-const editReel = document.getElementById('editreel')
-const editReelPlayButton = document.getElementsByClassName('video__button-play')[0]
-if (editReel) {
-  // Androids don't play nice with video tags
-  // Must manually play videos
-  editReel.play()
-  editReel.addEventListener('click', () => {
-    replaceVideo('editreel')
-  })
-  editReelPlayButton.addEventListener('click', () => {
-    replaceVideo('editreel')
-  })
-}
