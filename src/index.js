@@ -38,7 +38,7 @@ const videos = {
   chan: '116976989/589265640d',
   perry_hamlin: '108628040/0d717f3226',
   macys_inc: '95559201/b62c5f7844',
-  macys_ck: '',
+  macys_ck: '256869735/4b7d5221ec',
   lenovo_y: '95559201/56e6103586',
   lenovo_yoga: '92186587/9e1d0653b0',
   lenovo_z: '92186540/65858b736c',
